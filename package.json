@@ -1,0 +1,29 @@
+{
+  "name": "my-first-lambdapp",
+  "version": "1.0.0",
+  "description": "Testing aws sdk",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroEndo/my-first-lambdapp.git"
+  },
+  "keywords": [
+    "aws",
+    "amazon",
+    "serverless",
+    "lambda",
+    "cloud"
+  ],
+  "author": "Alejandro Endo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroEndo/my-first-lambdapp/issues"
+  },
+  "homepage": "https://github.com/AlejandroEndo/my-first-lambdapp#readme",
+  "dependencies": {
+    "aws-sdk": "2.604.0"
+  }
+}
