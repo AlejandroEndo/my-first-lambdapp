@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/AlejandroEndo/my-first-lambdapp#readme",
   "dependencies": {
-    "aws-sdk": "2.604.0"
+    "aws-sdk": "2.814.0"
   }
 }
